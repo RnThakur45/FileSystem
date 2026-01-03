@@ -1,6 +1,6 @@
 File System Hash Table Implementation
 
-This project implements a simulated file system management tool using a hash table with multiple collision-handling strategies. It is a Python-based port of the CMSC 341 – Fall 2024 Project 4.
+This project implements a simulated file system management tool using a hash table with multiple collision-handling strategies.
 
 The system efficiently stores and manages file records while supporting dynamic resizing, lazy deletion, and multiple probing policies to handle collisions.
 
@@ -123,4 +123,5 @@ mytest.py
 
 📌 Notes
 
-This project is designed for educational purposes and closely follows the specifications of CMSC 341 Project 4, making it a strong demonstration of data structure implementation and performance-aware design.
+
+This project is designed for educational purposes, making it a strong demonstration of data structure implementation and performance-aware design.
